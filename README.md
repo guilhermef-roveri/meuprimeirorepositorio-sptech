@@ -2,4 +2,4 @@
 
 Testando commit e push
 
-Alteração para teste em equipes
+Alteração para teste em equipes no GIT
